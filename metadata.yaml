@@ -1,0 +1,44 @@
+_repo: Summer-Snow-Storm_26968
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Llewellyn
+    gutenberg_agent_id: '32346'
+    url: http://www.gutenberg.org/2009/agents/32346
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Thames, C. H.
+    - Ridgway, Jason
+    - Wilder, Stephen
+    - Chase, Adam
+    - Lesser, Milton
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: http://en.wikipedia.org/wiki/Stephen_Marlowe
+description: It's no surprise that meteorologists sometimes make less-than-accurate
+  predictions about the day's weather. But when a cadre of top-ranking weather experts
+  fail to catch wind of a freak summer snow storm, all hell breaks loose. Amidst this
+  turmoil, an unusual folk hero emerges who seems to have a preternatural knack for
+  dead-on weather predictions. What's the source of this strange superpower?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parapsychology -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Weather -- Fiction'
+title: Summer Snow Storm
+url: http://www.gutenberg.org/ebooks/26968
